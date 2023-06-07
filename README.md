@@ -28,9 +28,6 @@ This is a clone of the Spotify app created using SwiftUI. The app has three main
 - SwiftUI
 - Swift 5
 
-## Future Improvements
-
-(Write about features or improvements you plan to make in the future)
 
 ## License
 
@@ -38,4 +35,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-(Write your acknowledgments here, if any)
